@@ -1,7 +1,7 @@
 **Keylogger Simple**
 
 ### Description :
-This is a simple keylogger script written in Python. It logs keystrokes and clipboard contents into a text file named `txt.txt`. The script runs in the background and starts automatically on system boot.
+This is a simple keylogger script written in Python. It logs keystrokes and clipboard contents into a text file named `txt.txt`. The script runs in the background if you start the : start.vbs
 
 ### Features :
 
